@@ -1,5 +1,4 @@
 Hi, I'm Guhan. I'm in my second year of computer engineering at the University of Waterloo. Currently, I'm:
-* Validating distributed software services at Ford.
 * Learning about systems programming by making a [shell](https://github.com/guhansiyer/osh) and a real-time system monitor.
 * Listenng to and [writing](https://guhaniyer.com) about music and other media.
 
