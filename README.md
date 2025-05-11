@@ -1,6 +1,6 @@
 Hi, I'm Guhan. I'm in my second year of computer engineering at the University of Waterloo. Currently, I'm:
 * Learning about systems programming by making a [shell](https://github.com/guhansiyer/osh) and a [real-time system monitor](https://github.com/guhansiyer/wintop).
-* Listening to and [writing](https://guhaniyer.com) about music and other media.
+* Consuming and [writing](https://guhaniyer.com) about music and other media.
 
 If you'd like to know more about what I've done, you can find my resume [here](https://github.com/guhansiyer/resume/blob/main/output/resume.pdf).
 
