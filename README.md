@@ -1,4 +1,4 @@
-Hi, I'm Guhan. I'm in my second year of computer engineering at the University of Waterloo. I'm interested in problems involving concurrency, real-time programming and low-level languages.
+Hi, I'm Guhan. I'm going into my third year of computer engineering at the University of Waterloo. I'm interested in problems involving concurrency, real-time programming and low-level languages.
 
 Currently, I'm at Nokia, writing SDKs for digital signal processing ASICs. I'm also:
 * Working on something new.
