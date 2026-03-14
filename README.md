@@ -1,6 +1,6 @@
-Hi, I'm Guhan. I'm going into my third year of computer engineering at the University of Waterloo. I'm interested in problems involving real-time programming, concurrency and firmware.
+Hi, I'm Guhan. I'm in my third year of computer engineering at the University of Waterloo. I'm interested in problems involving real-time programming, embedded systems and firmware.
 
-Previously, I was at Nokia, developing firmware and SDKs for their next-generation digital signal processing ASICs.
+Last fall, I was at Nokia, developing firmware and SDKs for their next-generation digital signal processors.
 
 If you'd like to know more about what I've done, you can find my resume [here](https://github.com/guhansiyer/resume/blob/main/GI_Resume.pdf).
 
